@@ -1,3 +1,13 @@
-## Welcome to GitHub Pages
+## dombot | automatyzacja zarzadzania domenami
+cel projektu to integracja uslug roznych uslugodwcow
 
-You can use the [editor on GitHub](https://github.com/dombot-pl/www/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+## Dokumentacja projektu
+[https://docs.dombot.pl/](https://docs.dombot.pl/)
+
+
+## APlikacja frontendowa laczaca sie z api
+[https://app.dombot.pl/](https://app.dombot.pl/)
+
+## Dostep API
+[https://api.dombot.pl/](https://api.dombot.pl/)
