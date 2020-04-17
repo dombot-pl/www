@@ -1,4 +1,4 @@
-## dombot.pl | Domenowy Bot do automatyzacji zarzadzania domenami
+## dombot.pl | Domenowy Bot do automatyzacji zarzadzania domenami internetowymi
 Cel projektu to integracja uslug roznych uslugodwcow
 w celu ulatwienia zmian i planowania ich  oraz utworzenia regul zarzadazania,
 w ten sposob mozna uzyskac automatyzacje dystrybucji uslug i domen internetowych
