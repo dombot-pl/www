@@ -4,6 +4,7 @@ w celu ulatwienia zmian i planowania ich  oraz utworzenia regul zarzadazania,
 w ten sposob mozna uzyskac automatyzacje dystrybucji uslug i domen internetowych
 
 
++ [www.dombot.pl](https://www.dombot.pl/)
 
 + [Dokumentacja projektu](https://docs.dombot.pl/)
 
