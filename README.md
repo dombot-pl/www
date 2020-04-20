@@ -6,6 +6,8 @@ w ten sposob mozna uzyskac automatyzacje dystrybucji uslug i domen internetowych
 
 + [www.dombot.pl](https://www.dombot.pl/)
 
++ [Blog](https://blog.dombot.pl/)
+
 + [Dokumentacja projektu](https://docs.dombot.pl/)
 
 + [Aplikacja frontendowa laczaca sie z api](https://app.dombot.pl/)
