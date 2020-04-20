@@ -10,3 +10,7 @@ w ten sposob mozna uzyskac automatyzacje dystrybucji uslug i domen internetowych
 + [Aplikacja frontendowa laczaca sie z api](https://app.dombot.pl/)
 
 + [Dostep API](https://api.dombot.pl/)
+
++ [Logo](https://logo.dombot.pl/)
+
+![3/cover.png](https://logo.dombot.pl/3/cover.png)
