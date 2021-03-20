@@ -1,19 +1,22 @@
+![3/cover.png](https://logo.parkingomat.pl/3/cover.png)
+
 ## dombot.pl | Domenowy Bot do automatyzacji zarzadzania domenami internetowymi
 Cel projektu to integracja uslug roznych uslugodwcow
 w celu ulatwienia zmian i planowania ich  oraz utworzenia regul zarzadazania,
 w ten sposob mozna uzyskac automatyzacje dystrybucji uslug i domen internetowych
 
 
-+ [www.dombot.pl](https://www.dombot.pl/)
++ [www.dombot.pl](https://www.parkingomat.pl/)
 
-+ [Blog](https://blog.dombot.pl/)
++ [Blog](https://blog.parkingomat.pl/)
 
-+ [Dokumentacja projektu](https://docs.dombot.pl/)
++ [Dokumentacja projektu](https://docs.parkingomat.pl/)
 
-+ [Aplikacja frontendowa laczaca sie z api](https://app.dombot.pl/)
++ [Aplikacja frontendowa laczaca sie z api](https://app.parkingomat.pl/)
 
-+ [Dostep API](https://api.dombot.pl/)
++ [Dostep API](https://api.parkingomat.pl/)
 
-+ [Logo](https://logo.dombot.pl/)
++ [Logo](https://logo.parkingomat.pl/)
 
-![3/cover.png](https://logo.dombot.pl/3/cover.png)
+
+
