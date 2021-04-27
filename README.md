@@ -1,4 +1,4 @@
-![3/cover.png](https://logo.parkingomat.pl/3/cover.png)
+![parkingomat](https://logo.parkingomat.pl/3/cover.png)
 
 ## parkingomat.pl - Domenowy Bot do automatyzacji zarzadzania domenami, usługami i aplikacjami internetowymi
 Cel projektu to integracja uslug roznych uslugodwcow
