@@ -6,7 +6,7 @@ w celu ulatwienia zmian i planowania ich  oraz utworzenia regul zarzadazania,
 w ten sposob mozna uzyskac automatyzacje dystrybucji uslug i domen internetowych
 
 
-+ [www.dombot.pl](https://www.parkingomat.pl/)
++ [www.parkingomat.pl](https://www.parkingomat.pl/)
 
 + [Blog](https://blog.parkingomat.pl/)
 
